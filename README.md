@@ -31,15 +31,7 @@ this websie  contains two  views . The first view is to admin that can control o
 1- home : this page enable user to order .
 2-my orders :  this page display to user his orders and details for each order.
 
-# steps in pushing this project
-1- to  get repository  
 
-   * git clone https://github.com/fatmasalah33/cafeteria.git
-   * cd cafeteria
-
-2- first, we push to banch dev 
-
-3-finally,we merge dev to master
 
  ## framework that is used :
  1- bootstrap .
